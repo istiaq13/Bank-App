@@ -1,0 +1,16 @@
+D:\Codes\C#\ABC Bank App\ABC Bank App\bin\Debug\ABC Bank App.exe.config
+D:\Codes\C#\ABC Bank App\ABC Bank App\bin\Debug\ABC Bank App.exe
+D:\Codes\C#\ABC Bank App\ABC Bank App\bin\Debug\ABC Bank App.pdb
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC Bank App.csproj.AssemblyReference.cache
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC Bank App.csproj.SuggestedBindingRedirects.cache
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC_Bank_App.Form1.resources
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC_Bank_App.infoForm.resources
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC_Bank_App.Properties.Resources.resources
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC Bank App.csproj.GenerateResource.cache
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC Bank App.csproj.CoreCompileInputs.cache
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC Bank App.exe
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC Bank App.pdb
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC_Bank_App.crtAcc.resources
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC_Bank_App.ManageMoneyForm.resources
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC_Bank_App.Login.resources
+D:\Codes\C#\ABC Bank App\ABC Bank App\obj\Debug\ABC_Bank_App.lastform.resources
